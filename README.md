@@ -3,7 +3,8 @@ Booking platform AirBnB is  functional web application that allows users to brow
 # airbnb-clone-project
 Booking platform AirBnB is  functional web application that allows users to browse property listings, view detailed property information, and complete bookings. The project will cover frontend development, backend APIs, database design, and deployment.
 
-##UI/UX Design Planning
+## UI/UX Design Planning
+
 Design Goals
   .Create intuitive booking flow
   .Maintain visual consistency
