@@ -84,6 +84,7 @@ Planned Components
 
 Navbar:
 
+
   .Logo
   
   .Search bar
@@ -96,6 +97,7 @@ Navbar:
 
 Property image:
 
+
   .Basic details (price, location, rating)
   
   .Favorite button
@@ -105,6 +107,7 @@ Property image:
   .Footer
 
 Site links:
+
 
   .Company information
   
