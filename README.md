@@ -78,20 +78,23 @@ Scrum Master	          Facilitates agile processes, removes blockers, organizes 
 
 Planned Components
 
-Navbar
+Navbar:
+
   .Logo
   .Search bar
   .User navigation
   .Responsive menu
   .Property Card
 
-Property image
+Property image:
+
   .Basic details (price, location, rating)
   .Favorite button
   .Responsive layout
   .Footer
 
-Site links
+Site links:
+
   .Company information
   .Social media links
   .Copyright information
